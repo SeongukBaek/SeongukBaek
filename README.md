@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![SeongukBaek's github stats](https://github-readme-stats.vercel.app/api?username=seongukbaek)](https://github.com/seongukbaek/github-readme-stats)
 <!--
 **SeongukBaek/SeongukBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm SeongukBaek</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
-- 📫 How to reach me 
+- 📫 How to reach me **bsu0541@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bbaeksukk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bbaeksukk" height="30" width="40" /></a>
-<a href="bsu0541@naver.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="bbaeksukk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SeongukBaek</h1>
-<h3 align="center">A passionate developer from Korea</h3>
 
 - 📫 How to reach me **bsu6235@gmail.com**
 

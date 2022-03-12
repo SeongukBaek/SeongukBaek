@@ -10,11 +10,6 @@
 </div>
 <div align="center">
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongukbaek&layout=compact)](https://github.com/seongukbaek/github-readme-stats)
-  
-</div>
-<div align="center">
-    
   [![SeongukBaek's github stats](https://github-readme-stats.vercel.app/api?username=seongukbaek)](https://github.com/seongukbaek/github-readme-stats)
 
 </div>

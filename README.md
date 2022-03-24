@@ -16,7 +16,7 @@
 
 <div align="center">
     
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bsu1209)](https://solved.ac/bsu1209)
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsu1209)](https://solved.ac/bsu1209)
 
 </div>
 

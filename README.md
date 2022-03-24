@@ -13,3 +13,10 @@
   [![SeongukBaek's github stats](https://github-readme-stats.vercel.app/api?username=seongukbaek)](https://github.com/seongukbaek/github-readme-stats)
 
 </div>
+
+<div align="center">
+    
+  [![SeongukBaek's github stats](https://solved.ac/profile/bsu1209)](https://solved.ac/profile/bsu1209)
+
+</div>
+

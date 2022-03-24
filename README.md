@@ -16,7 +16,7 @@
 
 <div align="center">
     
-  [![SeongukBaek's github stats](https://solved.ac/profile/bsu1209)](https://solved.ac/profile/bsu1209)
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bsu1209)](https://solved.ac/bsu1209)
 
 </div>
 

@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
+![SeongukBaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongukBaek&show_icons=true&theme=algolia)
+
 <!-- 
 <div align="center">
 

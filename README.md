@@ -6,8 +6,8 @@
 <div align="center">
   <pre class="java" data-ke-language="java" data-ke-type="codeblock">
     <code class="hljs">
-      <span>
-        <span>class</span>
+      <span class="hljs-function">
+        <span class="hljs-keyword">class</span>
         <span>Programmer</span>
       </span>
     </code>

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=400&color=timeAuto&text=👋&section=header&animation=scaleIn&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&color=timeAuto&text=👋&section=header&animation=scaleIn&fontSize=50)
 <!-- Hi%20👋%20I'm%20SeongukBaek -->
 <h1 align="center">Hi 👋, I'm SeongukBaek</h1>
 <!-- 

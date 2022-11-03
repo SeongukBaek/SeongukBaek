@@ -7,8 +7,9 @@
   <pre class="java" data-ke-language="java" data-ke-type="codeblock">
     <code class="hljs">
       <span class="hljs-function">
-        <span class="hljs-keyword">class</span>
-        <span>Programmer</span>
+        <span class="hljs-keyword">class Programmer {</span>
+        <span class="hljs-keyword">String name = "SeongukBaek"</span>
+        <span class="hljs-keyword">}</span>
       </span>
     </code>
   </pre>

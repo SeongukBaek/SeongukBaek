@@ -13,21 +13,4 @@
 
 ![SeongukBaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongukBaek&show_icons=true&theme=algolia)
 
-<!-- 
-<div align="center">
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:bsu6235@gmail.com)
-
-</div>
-<div align="center">
-    
-  [![SeongukBaek's github stats](https://github-readme-stats.vercel.app/api?username=seongukbaek)](https://github.com/seongukbaek/github-readme-stats)
-
-</div>
-
-<div align="center">
-    
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsu1209)](https://solved.ac/bsu1209)
-
-</div> -->
-
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsu1209)](https://solved.ac/bsu1209)

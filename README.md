@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&color=timeAuto&text=👋&section=header&animation=scaleIn&fontSize=50)
-<!-- Hi%20👋%20I'm%20SeongukBaek -->
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeAuto&text=👋&section=header&animation=scaleIn&fontSize=50)
+
 <h1 align="center">Hi 👋, I'm SeongukBaek</h1>
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +32,6 @@
   
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsu1209)](https://solved.ac/bsu1209)
 </div>
+
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&height=150&color=timeAuto&section=footer)

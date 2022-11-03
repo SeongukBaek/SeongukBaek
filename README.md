@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=capsule_render&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&section=header&text=class Programmer&animation=fadeIn&fontSize=90)
 
 <h1 align="center">Hi 👋, I'm SeongukBaek</h1>
 <!-- 

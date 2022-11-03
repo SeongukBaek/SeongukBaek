@@ -11,7 +11,7 @@
   <a href="mailto:bsu6235@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  
+  ![SeongukBaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongukBaek&show_icons=true&theme=algolia)
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsu1209)](https://solved.ac/bsu1209)
 </div>
-
-![SeongukBaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongukBaek&show_icons=true&theme=algolia)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsu1209)](https://solved.ac/bsu1209)

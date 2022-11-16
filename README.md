@@ -13,6 +13,12 @@
   
   </br>
   </br>
+  <a href="https://codingjavaman.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
+  <a href="mailto:bsu6235@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
   
   <div display="flex">
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -20,13 +26,8 @@
       <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-      <a href="https://codingjavaman.tistory.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
-      </a>
-      <a href="mailto:bsu6235@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-      </a>
   </div>
+  
   </br>
   </br>
   
